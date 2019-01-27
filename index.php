@@ -12,7 +12,7 @@ and open the template in the editor.
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="./css/estilo.css" type="text/css">
-    <title>VÍCTOR PRADILLA</title>
+    <title>VÍCTOR PRADILLA DIESTE</title>
 <body>
 <div class="contenedor">
 <h1>Lista de programas básico de pruebas</h1>
